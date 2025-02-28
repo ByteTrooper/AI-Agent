@@ -4,6 +4,9 @@ This project is a restaurant chatbot that helps users search for restaurants and
 
 🎥 [Watch the Demo](https://github.com/ByteTrooper/AI-Agent/raw/main/working%20demo%201.mp4)
 
+[![Notion Document](https://img.shields.io/badge/Notion-Document-blue?logo=notion)](https://www.notion.so/AI-Agent-Challenge-Restaurant-Reservation-System-Business-Strategy-Document-1a8ccb77163580b59f86ed667ecfc3d2)
+
+
 
 ![Screenshot 2025-02-27 014725](https://github.com/user-attachments/assets/f1d44bc6-cfbd-4f65-9777-862af4e195ff)
 
