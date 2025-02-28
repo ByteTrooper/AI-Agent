@@ -2,6 +2,9 @@
 
 This project is a restaurant chatbot that helps users search for restaurants and make reservations. It uses state management to handle different conversation states and process user inputs.
 
+🎥 [Watch the Demo](https://github.com/ByteTrooper/AI-Agent/raw/main/working%20demo%201.mp4)
+
+
 ![Screenshot 2025-02-27 014725](https://github.com/user-attachments/assets/f1d44bc6-cfbd-4f65-9777-862af4e195ff)
 
 
