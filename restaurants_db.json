@@ -1,0 +1,533 @@
+[
+    {
+        "id": 1,
+        "name": "Spice Garden",
+        "cuisine": "Punjabi",
+        "location": "Indiranagar",
+        "price_range": "\u20b91500-2000",
+        "rating": 3.9,
+        "seating_arrangements": [
+            "Outdoor",
+            "Private cabins",
+            "Rooftop",
+            "Indoor",
+            "Booth seating"
+        ],
+        "capacity": 194,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 10:00 PM",
+            "weekends": "11:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 1",
+            "Special drink 1"
+        ],
+        "address": "62, Cross, Brigade Road, Bengaluru",
+        "contact": "+91 8793699098",
+        "reservations": []
+    },
+    {
+        "id": 2,
+        "name": "Bengaluru Bytes",
+        "cuisine": "South Indian",
+        "location": "Church Street",
+        "price_range": "\u20b9500-1000",
+        "rating": 4.4,
+        "seating_arrangements": [
+            "Bar seating",
+            "Community tables"
+        ],
+        "capacity": 102,
+        "opening_hours": {
+            "weekdays": "11:00 AM - 11:00 PM",
+            "weekends": "9:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 2",
+            "Special drink 2"
+        ],
+        "address": "56, Street, Malleshwaram, Bengaluru",
+        "contact": "+91 6215654164",
+        "reservations": []
+    },
+    {
+        "id": 3,
+        "name": "Silicon Spices",
+        "cuisine": "North Indian",
+        "location": "Lavelle Road",
+        "price_range": "\u20b95000-6000",
+        "rating": 4.5,
+        "seating_arrangements": [
+            "Community tables",
+            "Outdoor",
+            "Booth seating"
+        ],
+        "capacity": 189,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 11:00 PM",
+            "weekends": "10:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 3",
+            "Special drink 3"
+        ],
+        "address": "79, Cross, Brigade Road, Bengaluru",
+        "contact": "+91 6964161844",
+        "reservations": []
+    },
+    {
+        "id": 4,
+        "name": "Garden City Grill",
+        "cuisine": "Japanese",
+        "location": "JP Nagar",
+        "price_range": "\u20b93000-4000",
+        "rating": 4.3,
+        "seating_arrangements": [
+            "Community tables",
+            "Private cabins",
+            "Garden",
+            "Window seating",
+            "Booth seating"
+        ],
+        "capacity": 194,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "10:00 AM - 10:00 PM"
+        },
+        "specialties": [
+            "Signature dish 4",
+            "Special drink 4"
+        ],
+        "address": "83, Avenue, Lavelle Road, Bengaluru",
+        "contact": "+91 8310308967",
+        "reservations": []
+    },
+    {
+        "id": 5,
+        "name": "Cubbon Cuisine",
+        "cuisine": "North Indian",
+        "location": "Electronic City",
+        "price_range": "\u20b94000-5000",
+        "rating": 4.2,
+        "seating_arrangements": [
+            "Private cabins",
+            "Terrace",
+            "Bar seating",
+            "Outdoor",
+            "Indoor"
+        ],
+        "capacity": 94,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "10:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 5",
+            "Special drink 5"
+        ],
+        "address": "4, Avenue, Church Street, Bengaluru",
+        "contact": "+91 8388089266",
+        "reservations": []
+    },
+    {
+        "id": 6,
+        "name": "Lalbagh Lunches",
+        "cuisine": "Fusion",
+        "location": "Malleshwaram",
+        "price_range": "\u20b94000-5000",
+        "rating": 4.7,
+        "seating_arrangements": [
+            "Booth seating",
+            "Indoor",
+            "Terrace",
+            "Outdoor"
+        ],
+        "capacity": 30,
+        "opening_hours": {
+            "weekdays": "10:00 AM - 10:00 PM",
+            "weekends": "8:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 6",
+            "Special drink 6"
+        ],
+        "address": "84, Street, Jayanagar, Bengaluru",
+        "contact": "+91 7922224555",
+        "reservations": []
+    },
+    {
+        "id": 7,
+        "name": "Namma Kitchen",
+        "cuisine": "Mediterranean",
+        "location": "Electronic City",
+        "price_range": "\u20b92500-3000",
+        "rating": 4.5,
+        "seating_arrangements": [
+            "Booth seating",
+            "Outdoor",
+            "Bar seating"
+        ],
+        "capacity": 200,
+        "opening_hours": {
+            "weekdays": "9:00 AM - 11:00 PM",
+            "weekends": "12:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 7",
+            "Special drink 7"
+        ],
+        "address": "23, Cross, Whitefield, Bengaluru",
+        "contact": "+91 7592666287",
+        "reservations": []
+    },
+    {
+        "id": 8,
+        "name": "Tech Park Tavern",
+        "cuisine": "Thai",
+        "location": "MG Road",
+        "price_range": "\u20b94000-5000",
+        "rating": 4.0,
+        "seating_arrangements": [
+            "Indoor",
+            "Outdoor"
+        ],
+        "capacity": 71,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 10:00 PM",
+            "weekends": "12:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 8",
+            "Special drink 8"
+        ],
+        "address": "71, Avenue, Electronic City, Bengaluru",
+        "contact": "+91 9362687062",
+        "reservations": []
+    },
+    {
+        "id": 9,
+        "name": "Kodava Kitchen",
+        "cuisine": "Goan",
+        "location": "MG Road",
+        "price_range": "\u20b96000-8000",
+        "rating": 4.5,
+        "seating_arrangements": [
+            "Private cabins",
+            "Outdoor"
+        ],
+        "capacity": 103,
+        "opening_hours": {
+            "weekdays": "11:00 AM - 9:00 PM",
+            "weekends": "11:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 9",
+            "Special drink 9"
+        ],
+        "address": "53, Main, MG Road, Bengaluru",
+        "contact": "+91 8696486022",
+        "reservations": []
+    },
+    {
+        "id": 10,
+        "name": "Brigade Bistro",
+        "cuisine": "Chettinad",
+        "location": "Lavelle Road",
+        "price_range": "\u20b94000-5000",
+        "rating": 4.7,
+        "seating_arrangements": [
+            "Garden",
+            "Booth seating",
+            "Terrace",
+            "Window seating",
+            "Bar seating"
+        ],
+        "capacity": 109,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 9:00 PM",
+            "weekends": "8:00 AM - 10:00 PM"
+        },
+        "specialties": [
+            "Signature dish 10",
+            "Special drink 10"
+        ],
+        "address": "99, Main, Yelahanka, Bengaluru",
+        "contact": "+91 8795880229",
+        "reservations": []
+    },
+    {
+        "id": 11,
+        "name": "Infosys Eatery",
+        "cuisine": "South Indian",
+        "location": "Indiranagar",
+        "price_range": "\u20b9500-1000",
+        "rating": 4.4,
+        "seating_arrangements": [
+            "Community tables",
+            "Garden",
+            "Indoor"
+        ],
+        "capacity": 192,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "10:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 11",
+            "Special drink 11"
+        ],
+        "address": "45, Avenue, Church Street, Bengaluru",
+        "contact": "+91 8276345309",
+        "reservations": []
+    },
+    {
+        "id": 12,
+        "name": "Startup Sizzlers",
+        "cuisine": "Italian",
+        "location": "HSR Layout",
+        "price_range": "\u20b91000-1500",
+        "rating": 4.7,
+        "seating_arrangements": [
+            "Terrace",
+            "Community tables"
+        ],
+        "capacity": 53,
+        "opening_hours": {
+            "weekdays": "11:00 AM - 10:00 PM",
+            "weekends": "12:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 12",
+            "Special drink 12"
+        ],
+        "address": "22, Main, Electronic City, Bengaluru",
+        "contact": "+91 9843141976",
+        "reservations": [
+            {
+                "id": 1,
+                "name": "Harshith",
+                "datetime": "2024-03-10 14:00",
+                "party_size": 7,
+                "status": "confirmed"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Royal Repast",
+        "cuisine": "Punjabi",
+        "location": "Church Street",
+        "price_range": "\u20b95000-6000",
+        "rating": 3.8,
+        "seating_arrangements": [
+            "Terrace",
+            "Indoor",
+            "Window seating",
+            "Outdoor"
+        ],
+        "capacity": 65,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 9:00 PM",
+            "weekends": "10:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 13",
+            "Special drink 13"
+        ],
+        "address": "82, Street, JP Nagar, Bengaluru",
+        "contact": "+91 7334571055",
+        "reservations": []
+    },
+    {
+        "id": 14,
+        "name": "Majestic Meals",
+        "cuisine": "North Indian",
+        "location": "MG Road",
+        "price_range": "\u20b98000+",
+        "rating": 3.9,
+        "seating_arrangements": [
+            "Indoor",
+            "Community tables"
+        ],
+        "capacity": 159,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "9:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 14",
+            "Special drink 14"
+        ],
+        "address": "4, Street, Church Street, Bengaluru",
+        "contact": "+91 6709112850",
+        "reservations": []
+    },
+    {
+        "id": 15,
+        "name": "Palace Platters",
+        "cuisine": "Continental",
+        "location": "Whitefield",
+        "price_range": "\u20b93000-4000",
+        "rating": 3.6,
+        "seating_arrangements": [
+            "Booth seating",
+            "Window seating",
+            "Private cabins",
+            "Terrace"
+        ],
+        "capacity": 29,
+        "opening_hours": {
+            "weekdays": "11:00 AM - 11:00 PM",
+            "weekends": "9:00 AM - 10:00 PM"
+        },
+        "specialties": [
+            "Signature dish 15",
+            "Special drink 15"
+        ],
+        "address": "80, Street, Electronic City, Bengaluru",
+        "contact": "+91 6331007773",
+        "reservations": []
+    },
+    {
+        "id": 16,
+        "name": "Coffee Connect",
+        "cuisine": "Fusion",
+        "location": "Indiranagar",
+        "price_range": "\u20b98000+",
+        "rating": 4.4,
+        "seating_arrangements": [
+            "Outdoor",
+            "Rooftop",
+            "Garden",
+            "Private cabins",
+            "Terrace"
+        ],
+        "capacity": 110,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 11:00 PM",
+            "weekends": "8:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 16",
+            "Special drink 16"
+        ],
+        "address": "91, Main, HSR Layout, Bengaluru",
+        "contact": "+91 6949999620",
+        "reservations": []
+    },
+    {
+        "id": 17,
+        "name": "Monsoon Masala",
+        "cuisine": "Bengali",
+        "location": "Electronic City",
+        "price_range": "\u20b91000-1500",
+        "rating": 4.2,
+        "seating_arrangements": [
+            "Community tables",
+            "Booth seating"
+        ],
+        "capacity": 197,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "8:00 AM - 10:00 PM"
+        },
+        "specialties": [
+            "Signature dish 17",
+            "Special drink 17"
+        ],
+        "address": "9, Avenue, Yelahanka, Bengaluru",
+        "contact": "+91 7165236897",
+        "reservations": []
+    },
+    {
+        "id": 18,
+        "name": "Mango Mantra",
+        "cuisine": "Mexican",
+        "location": "Yelahanka",
+        "price_range": "\u20b93000-4000",
+        "rating": 4.4,
+        "seating_arrangements": [
+            "Outdoor",
+            "Terrace",
+            "Window seating",
+            "Garden"
+        ],
+        "capacity": 196,
+        "opening_hours": {
+            "weekdays": "9:00 AM - 10:00 PM",
+            "weekends": "11:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 18",
+            "Special drink 18"
+        ],
+        "address": "7, Main, Lavelle Road, Bengaluru",
+        "contact": "+91 9342513304",
+        "reservations": []
+    },
+    {
+        "id": 19,
+        "name": "Windmill Wok",
+        "cuisine": "Mediterranean",
+        "location": "Church Street",
+        "price_range": "\u20b98000+",
+        "rating": 4.8,
+        "seating_arrangements": [
+            "Garden",
+            "Bar seating",
+            "Terrace",
+            "Indoor"
+        ],
+        "capacity": 36,
+        "opening_hours": {
+            "weekdays": "12:00 AM - 10:00 PM",
+            "weekends": "11:00 AM - 9:00 PM"
+        },
+        "specialties": [
+            "Signature dish 19",
+            "Special drink 19"
+        ],
+        "address": "27, Street, MG Road, Bengaluru",
+        "contact": "+91 9212846959",
+        "reservations": []
+    },
+    {
+        "id": 20,
+        "name": "Bamboo Bytes",
+        "cuisine": "Italian",
+        "location": "Koramangala",
+        "price_range": "\u20b92500-3000",
+        "rating": 4.6,
+        "seating_arrangements": [
+            "Window seating",
+            "Garden"
+        ],
+        "capacity": 166,
+        "opening_hours": {
+            "weekdays": "8:00 AM - 10:00 PM",
+            "weekends": "12:00 AM - 11:00 PM"
+        },
+        "specialties": [
+            "Signature dish 20",
+            "Special drink 20"
+        ],
+        "address": "100, Street, Lavelle Road, Bengaluru",
+        "contact": "+91 9532798650",
+        "reservations": [
+            {
+                "id": 1,
+                "name": "harshith",
+                "datetime": "2024-02-28 18:00",
+                "party_size": 4,
+                "status": "confirmed"
+            },
+            {
+                "id": 2,
+                "name": "robert",
+                "datetime": "2023-03-01 16:00",
+                "party_size": 4,
+                "status": "confirmed"
+            }
+        ]
+    }
+]
