@@ -2,6 +2,38 @@
 
 This project is a restaurant chatbot that helps users search for restaurants and make reservations. It uses state management to handle different conversation states and process user inputs.
 
+![Screenshot 2025-02-27 014725](https://github.com/user-attachments/assets/f1d44bc6-cfbd-4f65-9777-862af4e195ff)
+
+
+![diagram](https://github.com/user-attachments/assets/21612832-906d-4273-ac6b-3de54275fc13)
+
+
+## How the Agent Works
+The restaurant chatbot agent is designed to handle user interactions for searching restaurants and making reservations. It uses a state management system to process user inputs and transition between different conversation states. Here's a detailed description of how the agent works:
+
+-State Management:
+
+The chatbot maintains different states to handle various parts of the conversation.
+States include THANK_YOU, NORMAL_CONVERSATION, INTENT_DETECTION, and others.
+The current state determines how the chatbot processes the user's input.
+-State Transitions:
+
+When the chatbot is in the THANK_YOU state, it transitions to the INTENT_DETECTION state for further processing in the next cycle.
+Similarly, in the NORMAL_CONVERSATION state, it transitions to the INTENT_DETECTION state.
+The state is updated in the session state to keep track of the conversation flow.
+-Processing User Input:
+
+If the chatbot has not generated a response yet and the state has changed, it processes the new state by calling the process_state function with the user's input and restaurant data.
+The process_state function handles the logic for each state and generates an appropriate response.
+-Generating Responses:
+
+If a response is generated, it is returned to the user.
+If no response is generated and the state has not changed, the chatbot prompts the user with a default message asking if they want to search for restaurants or make a reservation.
+-Main Function:
+
+The main function is the entry point of the chatbot application.
+It initializes the chatbot and starts the conversation loop.
+
 ## Features
 
 - Search for restaurants
