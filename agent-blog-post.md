@@ -167,6 +167,9 @@ When building from scratch, you have the flexibility to choose any model and int
 
 The key is setting up a consistent interface for sending prompts and receiving responses.
 
+![image](https://github.com/user-attachments/assets/3a778e14-ce9f-43f5-8bd8-66101cb77358)
+
+
 ### 2. Implementing Context Management
 
 Maintaining conversation history is crucial for coherent interactions:
@@ -233,6 +236,9 @@ Unlike framework-based implementations, our custom tools:
 - Are tailored exactly to our application's needs
 - Can include complex logic like multi-turn interactions
 
+![image](https://github.com/user-attachments/assets/e98e6f11-97b5-45b5-bd11-69c9a8e4f7df)
+
+
 ### 4. Building the Controller
 
 The controller is the orchestration layer that determines which tools to use based on user input:
@@ -281,6 +287,9 @@ The controller follows a simple pattern:
 2. Select the appropriate tool based on intent
 3. Execute the tool and generate a response
 4. Update conversation context
+
+![image](https://github.com/user-attachments/assets/657e0596-2b09-46b2-aff5-4d1285643791)
+
 
 ### 5. Creating a Simple UI
 
