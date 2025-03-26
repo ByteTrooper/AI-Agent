@@ -235,7 +235,7 @@ Unlike framework-based implementations, our custom tools:
 - Are tailored exactly to our application's needs
 - Can include complex logic like multi-turn interactions
 
-<img src="[https://github.com/user-attachments/assets/3a778e14-ce9f-43f5-8bd8-66101cb77358](https://github.com/user-attachments/assets/e98e6f11-97b5-45b5-bd11-69c9a8e4f7df)" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/e98e6f11-97b5-45b5-bd11-69c9a8e4f7df" alt="image" width="300">
 
 ### 4. Building the Controller
 
@@ -287,7 +287,7 @@ The controller follows a simple pattern:
 4. Update conversation context
 
 
-<img src="[https://github.com/user-attachments/assets/3a778e14-ce9f-43f5-8bd8-66101cb77358](https://github.com/user-attachments/assets/657e0596-2b09-46b2-aff5-4d1285643791)" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/657e0596-2b09-46b2-aff5-4d1285643791" alt="image" width="300">
 
 ### 5. Creating a Simple UI
 
