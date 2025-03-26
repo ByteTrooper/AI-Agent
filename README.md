@@ -84,4 +84,4 @@ It initializes the chatbot and starts the conversation loop.
 
 Run the chatbot:
 ```sh
-python brain.py
+python main.py
